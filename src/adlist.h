@@ -50,7 +50,7 @@ typedef struct listNode {
 } listNode;
 
 /*
- * 双端链表迭代器
+ * 双端链表迭代器，只能为单向
  */
 typedef struct listIter {
 
